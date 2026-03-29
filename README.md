@@ -92,17 +92,9 @@ ardupilot_sysid/
 
 See [requirements.txt](requirements.txt) for full dependency list.
 
-## Contributing
-
-This is an ArduPilot GSoC project. Contributions and feedback are welcome!
-
-## License
-
-MIT License (TBD)
-
 ## Author
 
-Shao (Altura Robotics / ArduPilot GSoC candidate)
+Shaoming Wu
 
 ## References
 
